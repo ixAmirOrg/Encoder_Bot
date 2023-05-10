@@ -1,5 +1,5 @@
 # 🤖 Encoder Bot
-- 🔥This is a comment occupying bot for use in Telegram.
+- 🔥This is a Telegram bot for encoding php files, powered by [Alom](https://github.com/avid0/Alom.git)
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
 ## ⚙️Edit :
